@@ -1,0 +1,51 @@
+.main_body .heading {
+    text-align: center;
+    color: rgb(172, 21, 218);
+    background-image: url("./images.jfif");
+    background-size: 100%;
+    padding: 100px;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+
+}
+
+.main_body {
+    width: 400px;
+    margin: auto;
+}
+
+.main_body H2 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 0px;
+
+}
+
+.main_body h3 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 23px;
+    text-transform: capitalize;
+    color: tomato;
+    font-family: serif;
+}
+
+.paragrap {
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+.main_body a {
+    text-transform: capitalize;
+    background-color: tomato;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    /* margin-top: 25px; */
+    color: white;
+}
